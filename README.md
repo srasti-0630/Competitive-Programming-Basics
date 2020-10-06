@@ -1,1 +1,1 @@
-# Basic
+Collection of competitive programming algorithms.
